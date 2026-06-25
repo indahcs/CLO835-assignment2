@@ -11,8 +11,8 @@ import (
 )
 
 const (
-	version = "0.2"
-	message = "Hello world from the CLO835 class!"
+	version = "0.3"
+	message = "Hello world from the CLO835 class and 115029258!"
 	port    = ":8080"
 )
 
